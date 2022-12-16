@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@EmirCGN-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EmirCGN)](https://twitter.com/EmirCGN) ![Instagram Badge](https://img.shields.io/badge/-@emir.cgn7-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)
 
 - 💻 I am currently working on different projects to improve my skills.
-- 📫 I learn Java in my free time, at the school I lean C#.
+- 📫 I learn Java in my free time, at the school I learn C#.
 - 😄 I try to upload all projects to my GitHub profile.
 - ⚡ Besides I go to the GYM and play games.
 
