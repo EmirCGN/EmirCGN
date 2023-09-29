@@ -37,6 +37,6 @@
 
 ![EmirCGN's Stats](https://github-readme-stats.vercel.app/api?username=EmirCGN&show_icons=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 ![EmirCGN](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCGN&bg_color=0D1117&hide_border=true)
-![EmirCGN](https://activity-graph.herokuapp.com/graph?username=EmirCGN&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![EmirCGN](https://spotify-recently-played-readme.vercel.app/api?user=gi2ga2irq5diimgkl1advnky1&unique={true|1|on|yes})
 
 </details>
