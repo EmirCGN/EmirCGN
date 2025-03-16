@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@EmirCGN-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EmirCGN)](https://twitter.com/EmirCGN) ![Instagram Badge](https://img.shields.io/badge/-@emir.cgn7-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)
 
 - 💻 I am currently working on different projects to improve my skills.
-- 📫 I learn Java in my free time, at the school I learn C#.
+- 📫 I learn Java and Javascript in my free time, at the university I learn C.
 - 😄 I try to upload all projects to my GitHub profile.
 - ⚡ Besides I go to the GYM and play games.
 
@@ -17,6 +17,8 @@
      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="48"/> </a> <a height="48"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
+ 
 
 
 <details>
