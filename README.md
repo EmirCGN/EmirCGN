@@ -4,10 +4,10 @@
 ## 🙋‍♂️ EmirCGN
 
 - 🎓 Student @ TH Köln – Wirtschaftsinformatik
-- 💻 I am currently working on different projects to improve my skills.
-- 📫 I learn Java and Javascript in my free time, at the university I learn C.
-- 😄 I try to upload all projects to my GitHub profile.
-- ⚡ Besides I go to the GYM and play games.
+- 💻 Fokus: Java, C#, C, Kotlin, Python & Machine Learning
+- 📂 I don’t just upload projects — I document progress with purpose
+- 🧠 I don’t build projects. I engineer solutions.
+- ⚡ Mindset + Discipline = Results
 
 ## 🚀 Skills:
 
