@@ -3,6 +3,7 @@
 
 ## 🙋‍♂️ EmirCGN
 
+- 🎓 Student @ TH Köln – Wirtschaftsinformatik
 - 💻 I am currently working on different projects to improve my skills.
 - 📫 I learn Java and Javascript in my free time, at the university I learn C.
 - 😄 I try to upload all projects to my GitHub profile.
